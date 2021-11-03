@@ -20,7 +20,7 @@ Our dataset is a novel dataset for the Nigerian Sign Language comprising of 5000
 ```
 - While in the project directory's root, spin up the deepstack custom model's server by running the command below;
 ```
-  sudo docker run -v ~/path/to/project_folder/deployed_model:/modelstore/detection -p 88:5000 deepquestai/deepstack
+  sudo docker run -v ~/path/to/project_folder/savedmodels_configs/yolo_model/weights:/modelstore/detection -p 88:5000 deepquestai/deepstack
 ```
 
 #### - Detect sign language meanings in image files and generate realistic voice of words.
