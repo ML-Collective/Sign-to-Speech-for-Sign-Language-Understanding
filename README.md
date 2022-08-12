@@ -18,6 +18,10 @@ Our dataset is a novel dataset for the Nigerian Sign Language comprising of 5000
 ```
   sudo apt-get update && sudo apt-get install espeak ffmpeg libespeak1
 ```
+- Install Python's dependencies.
+```
+  pip install -r requirements.txt
+```
 - While in the project directory's root, spin up the deepstack custom model's server by running the command below;
 ```
   sudo docker run -v ~/path/to/project_folder/savedmodels_configs/yolo_model/weights:/modelstore/detection -p 88:5000 deepquestai/deepstack
