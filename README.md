@@ -2,10 +2,10 @@
 
 ![sign](https://user-images.githubusercontent.com/45284829/139852417-a2e1b40a-ee7c-41e9-9ef5-bbd4983ac320.gif)
 
-This repository contains the code, model, and deployment configs for the paper [**Sign-to-Speech for Sign Language Understanding: A case study of Nigerian Sign Language**](http://arxiv.org/abs/2111.00995) which appears at the NeurIPS workshop on Machine Learning for Developing World (ML4D) 2021.
+This repository contains the code, model, and deployment configs for the paper [**Sign-to-Speech for Sign Language Understanding: A case study of Nigerian Sign Language**](https://www.ijcai.org/proceedings/2022/855) which appeared first at the NeurIPS workshop on Machine Learning for Developing World (ML4D) 2021, and subsequently as a demo paper at the Thirty-First International Joint Conference on Artificial Intelligence {IJCAI-22}.
 
 ## Dataset
-Our dataset is a novel dataset for the Nigerian Sign Language comprising of 5000 images of 137 sign words/phrases including the alphabet letters. Data collectors of 20+ individuals comprising of a TV sign language broadcaster and students and teachers from 2 special education schools in Nigeria. The dataset is not publicly available for now.
+Our dataset is a novel dataset for the Nigerian Sign Language comprising of 5000 images of 137 sign words/phrases including the alphabet letters. Data collectors of 20+ individuals comprising of a TV sign language broadcaster and students and teachers from 2 special education schools in Nigeria. The dataset is not publicly available for now, due to privacy concerns.
 
 ## Model configs and code
 - [YOLO model](https://github.com/SteveKola/Sign-to-Speech-for-Sign-Language-Understanding/tree/master/savedmodels_configs/yolo_model)
