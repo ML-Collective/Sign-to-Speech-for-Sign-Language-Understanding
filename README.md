@@ -60,4 +60,18 @@ https://user-images.githubusercontent.com/45284829/139852351-23bf2759-409c-49f5-
 
 
 ## Citation
-Coming soon!
+```
+@inproceedings{ijcai2022p855,
+  title     = {Sign-to-Speech Model for Sign Language Understanding: A Case Study of Nigerian Sign Language},
+  author    = {Kolawole, Steven and Osakuade, Opeyemi and Saxena, Nayan and Olorisade, Babatunde Kazeem},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Lud De Raedt},
+  pages     = {5924--5927},
+  year      = {2022},
+  month     = {7},
+  note      = {Demo Track},
+  doi       = {10.24963/ijcai.2022/855},
+  url       = {https://doi.org/10.24963/ijcai.2022/855},
+  ```
