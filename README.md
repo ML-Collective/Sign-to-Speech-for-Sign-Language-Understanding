@@ -1,5 +1,7 @@
 # Sign-to-Speech for Sign Language Understanding: A case study of Nigerian Sign Language
 
+**Dataset:** [Nigerian Sign Language dataset on Hugging Face](https://huggingface.co/datasets/Lanfrica/sign-to-speech-for-sign-language-understanding-a-case-study-of-nigerian-sign-language)
+
 ![sign](https://user-images.githubusercontent.com/45284829/139852417-a2e1b40a-ee7c-41e9-9ef5-bbd4983ac320.gif)
 
 This repository contains the code, model, and deployment configs for the paper [**Sign-to-Speech for Sign Language Understanding: A case study of Nigerian Sign Language**](https://www.ijcai.org/proceedings/2022/855) which appeared first at the NeurIPS workshop on Machine Learning for Developing World (ML4D) 2021, and subsequently as a demo paper at the Thirty-First International Joint Conference on Artificial Intelligence {IJCAI-22}.
