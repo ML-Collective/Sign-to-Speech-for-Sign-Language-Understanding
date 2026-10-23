@@ -1,5 +1,6 @@
 # Sign-to-Speech for Sign Language Understanding: A case study of Nigerian Sign Language
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23600738.svg)](https://doi.org/10.5281/zenodo.23600738)
 **Dataset:** [Nigerian Sign Language dataset on Hugging Face](https://huggingface.co/datasets/Lanfrica/sign-to-speech-for-sign-language-understanding-a-case-study-of-nigerian-sign-language)
 
 ![sign](https://user-images.githubusercontent.com/45284829/139852417-a2e1b40a-ee7c-41e9-9ef5-bbd4983ac320.gif)
