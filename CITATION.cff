@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the paper below."
+title: "Sign-to-Speech for Sign Language Understanding: A Case Study of Nigerian Sign Language"
+type: software
+authors: [{family-names: Kolawole, given-names: Steven}, {family-names: Osakuade, given-names: Opeyemi}, {family-names: Saxena, given-names: Nayan}, {family-names: Olorisade, given-names: Babatunde Kazeem}]
+repository-code: "https://github.com/ML-Collective/Sign-to-Speech-for-Sign-Language-Understanding"
+url: "https://huggingface.co/datasets/Lanfrica/sign-to-speech-for-sign-language-understanding-a-case-study-of-nigerian-sign-language"
+doi: 10.5281/zenodo.23600738
+license: MIT
+version: 1.0.0
+date-released: 2026-10-23
+preferred-citation: {type: conference-paper, title: "Sign-to-Speech Model for Sign Language Understanding: A Case Study of Nigerian Sign Language", authors: [{family-names: Kolawole, given-names: Steven}, {family-names: Osakuade, given-names: Opeyemi}, {family-names: Saxena, given-names: Nayan}, {family-names: Olorisade, given-names: Babatunde Kazeem}], collection-title: "Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI-22)", year: 2022, url: "https://www.ijcai.org/proceedings/2022/855"}
