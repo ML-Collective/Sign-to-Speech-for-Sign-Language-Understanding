@@ -5,6 +5,10 @@
 
 ![sign](https://user-images.githubusercontent.com/45284829/139852417-a2e1b40a-ee7c-41e9-9ef5-bbd4983ac320.gif)
 
+**In plain language:** This project turns Nigerian Sign Language into spoken words. A camera sees a person making a sign, a computer model recognizes which sign it is, and a voice then says the word out loud. The dataset of about 5,000 photos of 137 signs was collected with a TV sign language broadcaster and students and teachers from two special education schools in Nigeria. The code and trained models are shared here so others can reuse them.
+
+**Version:** 1.0.0 (October 2026), archived on [Zenodo](https://doi.org/10.5281/zenodo.23600738).
+
 This repository contains the code, model, and deployment configs for the paper [**Sign-to-Speech for Sign Language Understanding: A case study of Nigerian Sign Language**](https://www.ijcai.org/proceedings/2022/855) which appeared first at the NeurIPS workshop on Machine Learning for Developing World (ML4D) 2021, and subsequently as a demo paper at the Thirty-First International Joint Conference on Artificial Intelligence {IJCAI-22}.
 
 ## Dataset
